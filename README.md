@@ -21,18 +21,9 @@ It uses a `best.pt` model file that improves performance on football-specific an
 
 ---
 
-## 📁 Project Structure
 
-```
-player-reidentification/
-├── task2_player_reid.ipynb       # Colab notebook (full pipeline)
-├── output_reid.mp4               # Final output video with tracking boxes
-├── input_videos/                 # Input videos used for inference│
-│   └── 15sec_input_720p.mp4
-└── README.md                     # Project overview and instructions
-```
 
----
+
 
 ## 🚀 How It Works
 
