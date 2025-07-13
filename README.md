@@ -27,7 +27,6 @@ It uses a `best.pt` model file that improves performance on football-specific an
 player-reidentification/
 ├── task2_player_reid.ipynb       # Colab notebook (full pipeline)
 ├── output_reid.mp4               # Final output video with tracking boxes
-├── best.pt                       # YOLO11 model weights (use GDrive if >100MB)
 ├── input_videos/                 # Input videos used for inference│
 │   └── 15sec_input_720p.mp4
 └── README.md                     # Project overview and instructions
